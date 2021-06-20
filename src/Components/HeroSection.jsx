@@ -18,7 +18,7 @@ const HeroSection = () => {
             <span className="text-white pt-4">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas,
               perferendis facere temporibus, atque repellat hic dolorem
-              reprehenderit sed dolor ratione doloribus laborum
+              reprehenderit sed dolor ratione doloribus laborum.
             </span>
             <div className="flex flex-col md:flex-row mt-10 w-full justify-between mx-auto  md:w-2/3">
               <div className="flex flex-1 cursor-pointer justify-center items-center mb-3 py-3 px-3 text-indigo-600 w-full bg-white font-semibold rounded-md">
